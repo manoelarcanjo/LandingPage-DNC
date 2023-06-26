@@ -22,5 +22,5 @@ A página possui os seguintes elementos:
 * Formulário: permite que os usuários interessados preencham seus dados para acessar a ementa do curso.
 
   
-Visite a [Landing Page](https://l-pagednc.netlify.app/).
+Link da [Landing Page](https://l-pagednc.netlify.app/).
 
