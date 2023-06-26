@@ -6,7 +6,7 @@ Este projeto consiste em uma landing page para a DNC School, uma escola de tecno
 
 * HTML5
 * CSS3
-* avaScript
+* JavaScript
 
 # Como utilizar
 1. Faça o clone deste repositório em sua máquina local.
