@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter';
+}
+
+::-webkit-scrollbar {
+    width: 1rem;
+}
+
+::-webkit-scrollbar-track {
+    border-radius: 3rem;
+    background-color: #898989;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 3rem;
+    background-color: #215166;
+}
+
+#header {
+    background-image: url(Img/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#logo {
+    padding: 2.6rem;
+}
+
+#text {
+    color: white;
+    width: 50%;
+    margin-left: 10rem;
+}
+
+#title {
+    margin-top: 1rem;
+    font-weight: 400;
+    font-size: 2.7rem;
+}
+
+#paragraph {
+    margin-top: 2.6rem;
+    font-weight: 200;
+    font-size: 1.2rem;
+    padding-bottom: 5rem;
+}
+
+#info {
+    background-color: #EAECE5;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    justify-content: space-around;
+}
+
+.icon {
+    margin: 1rem 0rem 1rem 0rem;
+    padding: 2rem;
+}
+
+.infoText {
+    display: flex;
+    align-items: center;
+}
+
+#secaoVideo {
+    display: grid;
+    grid-auto-flow: column;
+    justify-content: center;
+}
+
+#secaoVideotext {
+    margin-top: 3.6rem;
+}
+
+#titleVideo {
+    color: #247BA0;
+    margin-bottom: 2.6rem;
+    font-size: 2.4rem;
+}
+
+.textVideo {
+    margin-bottom: 1.6rem;
+    font-size: 1.1rem;
+}
+
+#video {
+    margin: 3.6rem 2rem 3.6rem 7rem;
+    padding-right: 4.6rem;
+}
+
+#carrossel {
+    background-color: #247BA0;
+    padding: 5rem;
+}
+
+#tituloCarrossel {
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+}
+
+#cardsCarrossel {
+    display: grid;
+    grid-auto-flow: column;
+    justify-content: center;
+    margin-top: 5rem;
+}
+
+.card {
+    margin-left: 3rem;
+    transition: .5s ease;
+
+}
+
+#setaEsquerda {
+    display: none;
+    padding-top: 2.6rem;
+}
+
+#samantha {
+    display: none;
+}
+
+.seta {
+    margin-top: 55%;
+    cursor: pointer;
+    transition: .5s ease;
+}
+
+.seta:hover {
+    transform: translateY(-7px);
+}
+
+#formFooter {
+    text-align: center;
+}
+
+#formFooter h1 {
+    font-size: 2rem;
+    margin: 3.6rem;
+    color: #383838;
+}
+
+#form {
+    margin-bottom: 4rem;
+}
+
+input {
+    background-color: #EAECE5;
+    border: none;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    margin-bottom: 1.6rem;
+    width: 25%;
+}
+
+input::placeholder {
+    color:rgb(0, 0, 0);
+}
+
+button {
+    background-color: #247BA0;
+    color: white;
+    border: none;
+    border-radius: 0.5rem;
+    padding: 1rem 3rem;
+    font-weight: bolder;
+    cursor: pointer;
+    transition: .7s ease;
+}
+
+button:hover {
+    background-color: #44b0df;
+    color: #d8d8d8;
+    transform: translateY(-7px);
+    box-shadow: 0px 15px 20px #48839cb9;
+}
