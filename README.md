@@ -21,6 +21,7 @@ A página possui os seguintes elementos:
 * Seção de Depoimentos / Carrossel: exibe depoimentos de alunos em um carrossel.
 * Formulário: permite que os usuários interessados preencham seus dados para acessar a ementa do curso.
 
-  
+# Links
+
 Link da [Landing Page](https://l-pagednc.netlify.app/).
 
