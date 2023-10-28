@@ -21,6 +21,11 @@ A página possui os seguintes elementos:
 * Seção de Depoimentos / Carrossel: exibe depoimentos de alunos em um carrossel.
 * Formulário: permite que os usuários interessados preencham seus dados para acessar a ementa do curso.
 
+## O Projeto
+
+![image](https://github.com/manoelarcanjo/LandingPage-DNC/assets/116446206/33ad7115-2118-465b-b158-a502710b3e46)
+![image](https://github.com/manoelarcanjo/LandingPage-DNC/assets/116446206/402778fc-8b1a-46ec-8569-78613771a8d9)
+
 # Links
 
 Link da [Landing Page](https://l-pagednc.netlify.app/).
